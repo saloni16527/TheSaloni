@@ -63,3 +63,44 @@ section{
     height:160px;
     margin-left:50px;
 }
+#en{
+    margin-left:50px;
+     color: rgba(255, 255, 255, 0.70);
+     font-size: 50px;
+}
+main{
+    display:inline-block;
+    width:1600px;
+    height:500px;
+}
+#no{
+    width:260px;
+    height:340px;
+    opacity:0.7;
+    border:5px solid  rgba(255, 255, 255, 0.65);
+    border-radius:10px
+}
+p{
+    width:200px;
+    display:inline-block;
+    text-align:center;
+     color: rgba(255, 255, 255, 0.65);
+}
+#first{
+    margin-top:30px;
+}
+#second{
+    margin-top:20px;
+}
+#j:hover{
+    transform:scale(1.1);
+}
+#j{
+    width: 240px;
+    height:400px;
+    margin-left:40px;
+}
+#add{
+    width:240px;
+    margin-left:12px;
+}
