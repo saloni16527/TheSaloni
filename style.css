@@ -8,7 +8,7 @@ background-color:#656D3F;
 }
 header{
     width: 1600px;
-    height:900px;
+    height:800px;
 }
 #navbar{
     position: fixed;
@@ -37,7 +37,7 @@ a{
     margin-top:5px;
 }
 #food{
-    margin-top: 100px;
+    margin-top: 50px;
 }
 h2{
     font-size:40px;
