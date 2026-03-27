@@ -2,7 +2,7 @@
     padding:0%;
     margin:0%;
 }
-@media(max-width:420px){
+@media(max-width:450px){
     .menu{
         width:360px;
         height:180px;

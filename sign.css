@@ -2,7 +2,7 @@ body{
 background-color:#656D3F;
 margin-left: 650px;
 }
-@media(max-width:420px){
+@media(max-width:450px){
   .main{
     align-content: center;
     width:fit-content;
