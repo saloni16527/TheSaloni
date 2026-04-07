@@ -106,7 +106,7 @@ body {
     margin-bottom: 30px;
 }
 
-#j {
+.j {
     background: white;
     border-radius: 10px;
     overflow: hidden;
@@ -115,13 +115,13 @@ body {
     padding-bottom: 15px;
 }
 
-#j img {
+.j img {
     width: 100%;
     height: 150px;
     object-fit: cover;
 }
 
-#j p {
+.j p {
     margin: 10px 0;
     font-weight: bold;
 }
@@ -211,7 +211,7 @@ a button {
     }
 }
 
-@media (max-width: 430px) {
+@media (max-width: 460px) {
     #first, #second {
         grid-template-columns: 1fr;
     }
